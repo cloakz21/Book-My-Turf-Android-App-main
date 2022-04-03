@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295803751280",
+    "firebase_url": "https://bookmyturf-dd00c-default-rtdb.firebaseio.com",
+    "project_id": "bookmyturf-dd00c",
+    "storage_bucket": "bookmyturf-dd00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295803751280:android:40a80507b43ce1c4d79db5",
+        "android_client_info": {
+          "package_name": "com.nirajkulkani.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295803751280-0kubcfh8uc3sq08rkb21j1uhd6cg98s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEykda4dBNaJpM-CMAQ9mJ45cexL-lzz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295803751280-0kubcfh8uc3sq08rkb21j1uhd6cg98s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
